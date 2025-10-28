@@ -1,3 +1,22 @@
+<div align="center">
+  
+  <!-- Animated Header -->
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Dulanjana%20Dilshan&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20Problem%20Solver%20|%20Tech%20Enthusiast&descAlignY=55&descAlign=50" alt="header"/>
+  
+  <!-- Typing SVG -->
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00C6FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Dulanjana+Dilshan;Full+Stack+Developer+%F0%9F%92%BB;Learning+Java+%26+Python+%F0%9F%9A%80;Building+Amazing+Projects+%E2%9C%A8" alt="Typing SVG" /></a>
+
+  <!-- Profile Views & Trophy -->
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=dilshanrad22&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="dilshanrad22" />
+  </p>
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
 
